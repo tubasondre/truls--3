@@ -1,0 +1,24 @@
+h1 {
+    font-size: 100px;
+    color:antiquewhite
+}
+body {
+    font-size: 40px;
+    color:aqua;
+    background-color:deeppink
+}
+.bilder {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(8, 255, 4);
+    padding: 25px 0;
+}
+
+body {
+    margin: 0;
+}
